@@ -1,4 +1,4 @@
-function printLetterTriples(n) {
+function printLetter(n) {
    
     const numberOfLetters = Number(n);
 
@@ -14,4 +14,4 @@ function printLetterTriples(n) {
         }
     }
 }
-printLetterTriples(5);
+printLetter(5);
